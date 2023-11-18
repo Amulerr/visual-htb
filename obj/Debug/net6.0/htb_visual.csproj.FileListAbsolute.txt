@@ -1,0 +1,15 @@
+/home/valeria/htb/visual/htb_visual/bin/Debug/net6.0/htb_visual
+/home/valeria/htb/visual/htb_visual/bin/Debug/net6.0/htb_visual.deps.json
+/home/valeria/htb/visual/htb_visual/bin/Debug/net6.0/htb_visual.runtimeconfig.json
+/home/valeria/htb/visual/htb_visual/bin/Debug/net6.0/htb_visual.dll
+/home/valeria/htb/visual/htb_visual/bin/Debug/net6.0/htb_visual.pdb
+/home/valeria/htb/visual/htb_visual/obj/Debug/net6.0/htb_visual.csproj.AssemblyReference.cache
+/home/valeria/htb/visual/htb_visual/obj/Debug/net6.0/htb_visual.GeneratedMSBuildEditorConfig.editorconfig
+/home/valeria/htb/visual/htb_visual/obj/Debug/net6.0/htb_visual.AssemblyInfoInputs.cache
+/home/valeria/htb/visual/htb_visual/obj/Debug/net6.0/htb_visual.AssemblyInfo.cs
+/home/valeria/htb/visual/htb_visual/obj/Debug/net6.0/htb_visual.csproj.CoreCompileInputs.cache
+/home/valeria/htb/visual/htb_visual/obj/Debug/net6.0/htb_visual.dll
+/home/valeria/htb/visual/htb_visual/obj/Debug/net6.0/refint/htb_visual.dll
+/home/valeria/htb/visual/htb_visual/obj/Debug/net6.0/htb_visual.pdb
+/home/valeria/htb/visual/htb_visual/obj/Debug/net6.0/htb_visual.genruntimeconfig.cache
+/home/valeria/htb/visual/htb_visual/obj/Debug/net6.0/ref/htb_visual.dll
